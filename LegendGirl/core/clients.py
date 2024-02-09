@@ -324,7 +324,7 @@ async def Start_BotSpam():
         if var is not None:
             await start_bot(var)
     print("➖➖➖➖➖➖➖➖➖➖➖➖")
-    print(f"🔥 ᗷᝪᎢ ᔑᑭᗩᗰ 🔥[INFO] : Group Username ("https://t.me/O_P_Hacker")")
+    print(f"🔥 ᗷᝪᎢ ᔑᑭᗩᗰ 🔥[INFO] : Group Username {https://t.me/O_P_Hacker}")
     print(f"🔥 ᗷᝪᎢ ᔑᑭᗩᗰ 🔥[INFO] : Version - {platform.python_version()}")
     print(f"🔥 ᗷᝪᎢ ᔑᑭᗩᗰ 🔥[INFO]: SpamBot Version - {version}")
     print(f"🔥 ᗷᝪᎢ ᔑᑭᗩᗰ 🔥[INFO]: Pyrogram Version - {py_version}")
