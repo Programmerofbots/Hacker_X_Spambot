@@ -74,4 +74,4 @@ if botspam.lower() in ["y", "yes"]:
             LegendStartUP()
 else:
     os.system("clear")
-    os.system("python3 -m LegendGirl")
+    os.system("python3 -m Hacker")
