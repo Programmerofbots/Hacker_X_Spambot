@@ -201,7 +201,7 @@ python3 start.py
 </details>
 
 
-> Made with 💕 by [@TeamLegendXD](https://t.me/TeamLegendXD).    
+> Made with 💕 by [@O_P_Hacker](https://t.me/O_P_Hacker).    
 
 
 
